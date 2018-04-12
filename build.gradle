@@ -17,4 +17,8 @@ dependencies {
 	 "com.h2database:h2:1.4.196",
 	 "org.flywaydb:flyway-core:5.0.7"
 	 )
+	 testCompile(
+	 "org.springframework.boot:spring-boot-starter-test:1.5.10.RELEASE"
+	 
+	 )
 }
